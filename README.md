@@ -34,3 +34,5 @@ var b = 2
 console.log(b)
 
 ```
+
+这是bing网站 [链接](https://bing.com)
