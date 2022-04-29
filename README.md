@@ -36,3 +36,8 @@ console.log(b)
 ```
 
 这是bing网站 [链接](https://bing.com)
+
+
+![一张图片](01.png)
+
+
